@@ -43,5 +43,5 @@ Siéntete libre de explorar los notebooks para conocer mi metodología en la res
 ## Contacto
 
 - **[Salvador Medina Donnadieu]**  
-- LinkedIn: [https://www.linkedin.com/in/salvador-m-donnadieu]  
-- Email: Email: [s.donnadieu@outlook.com](mailto:s.donnadieu@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/salvador-m-donnadieu)
+- [Email](mailto:s.donnadieu@outlook.com)
