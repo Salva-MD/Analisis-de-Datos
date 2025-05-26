@@ -1,0 +1,43 @@
+# 📊 Proyecto: Análisis de Tarifas Prepago - Megaline Telecom
+
+## 📝 Descripción
+
+En este proyecto, actúas como analista de datos para **Megaline**, una empresa de telecomunicaciones que ofrece dos tarifas de prepago: **Surf** y **Ultimate**. El objetivo del área comercial es identificar cuál de los dos planes genera **mayores ingresos**, con el fin de optimizar la asignación del presupuesto publicitario.
+
+Utilizando un conjunto de datos de 500 clientes de Megaline, el análisis incluye:
+
+- Información del cliente (ubicación, plan contratado)
+- Cantidad de llamadas realizadas
+- Mensajes de texto enviados
+- Uso de datos móviles
+- Ingresos generados por cada cliente
+
+Se realizará un análisis estadístico para comparar ingresos y determinar qué tarifa aporta más, en promedio.
+
+---
+
+## 🎯 Objetivo del Proyecto
+
+- Analizar el comportamiento de los clientes según el plan que utilizan.
+- Comparar los ingresos generados por cada tarifa.
+- Aplicar pruebas estadísticas para determinar si las diferencias observadas en los ingresos son significativas.
+
+---
+
+## ⚙️ Instrucciones para ejecución
+
+1. Clona este repositorio
+2. Instala las dependencias necesarias:
+   pip install -r requirements.txt
+
+---
+
+## 📦 Librerías utilizadas
+
+1. python
+2. pandas # Manipulación y análisis de datos
+3. matplotlib (pyplot) # Visualización de gráficos
+4. numpy # Operaciones numéricas y matrices
+5. seaborn # Visualización estadística avanzada
+6. scipy stats # Pruebas estadísticas y funciones científicas
+7. math
