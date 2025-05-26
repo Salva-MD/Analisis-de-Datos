@@ -39,5 +39,5 @@ Se realizará un análisis estadístico para comparar ingresos y determinar qué
 3. matplotlib (pyplot) # Visualización de gráficos
 4. numpy # Operaciones numéricas y matrices
 5. seaborn # Visualización estadística avanzada
-6. scipy stats # Pruebas estadísticas y funciones científicas
+6. scipy (stats) # Pruebas estadísticas y funciones científicas
 7. math

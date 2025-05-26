@@ -1,0 +1,35 @@
+# 📊 Análisis de Videojuegos para la Tienda Online Ice
+
+## 📝 Descripción
+
+En este proyecto trabajas como analista de datos para Ice, una tienda online que vende videojuegos a nivel mundial. Dispones de datos históricos que incluyen reseñas de usuarios y expertos, géneros de los juegos, plataformas (como Xbox o PlayStation) y ventas pasadas.
+
+Tu objetivo principal es identificar patrones que permitan determinar si un videojuego será un éxito o no. Esta información es clave para detectar proyectos prometedores y planificar campañas publicitarias efectivas para el próximo año.
+
+Los datos cubren hasta diciembre de 2016, y se simula que estás planificando la campaña para 2017 basándote en la información histórica disponible.
+
+## Datos clave
+
+- El conjunto de datos contiene variables relacionadas con las características del juego, las opiniones de usuarios y expertos, y las ventas históricas.
+- Incluye una columna llamada **rating**, que contiene la clasificación ESRB del juego. La ESRB (Entertainment Software Rating Board) evalúa el contenido del juego y asigna una categoría de edad, como "Adolescente" o "Adulto".
+
+## Objetivos
+
+- Analizar los datos para descubrir patrones que expliquen el éxito o fracaso de un juego.
+- Utilizar este análisis para tomar decisiones informadas sobre campañas publicitarias y desarrollo de nuevos productos.
+
+## ⚙️ Instrucciones para ejecución
+
+1. Clona este repositorio
+2. Instala las dependencias necesarias:
+   pip install -r requirements.txt
+
+## 📦 Librerías utilizadas
+
+1. python
+2. pandas # Manipulación y análisis de datos
+3. matplotlib (pyplot) # Visualización de gráficos
+4. numpy # Operaciones numéricas y matrices
+5. seaborn # Visualización estadística avanzada
+6. scipy (stats) # Pruebas estadísticas y funciones científicas
+7. math
